@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.vaquitini.com/index.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.vaquitini.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.vaquitini.com/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://www.vaquitini.com/gallery.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.vaquitini.com/phone/gallery.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.vaquitini.com/tablet/gallery.html"/>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/sdff.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/getg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/sdfsf.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/ni%C3%B1o%20areoa.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/dgdfgfg708x472.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/sdfsfg-crop-u2234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/etgetge-crop-u2252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/sjos.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/fsf-crop-u2270.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/t4tg-crop-u2279.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/erge150x100.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/sdfsf-crop-u2219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/sdfsdf150x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/sdfsfg150x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/sdff-crop-u2246.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/fsf159x89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/sjos-crop-u2264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/etgetge159x89.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.vaquitini.com/images/t4tg-crop-u2282.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.vaquitini.com/contact.html</loc>
+    <lastmod>2018-02-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.vaquitini.com/phone/contact.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.vaquitini.com/tablet/contact.html"/>
+  </url>
+</urlset>

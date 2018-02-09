@@ -1,0 +1,297 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.vaquitini.com" resolutions="1x" timestamp="1518203351629">
+  <folder name="css">
+    <file name="site_global.css" crc="4275521114"/>
+    <file name="master_a-master.css" crc="3822723675" ref="gallery:index:contact"/>
+    <file name="gallery.css" crc="333492141" ref="gallery"/>
+    <file name="index.css" crc="162546947" ref="index"/>
+    <file name="iefonts_index.css" crc="75818013" ref="index"/>
+    <file name="contact.css" crc="4226510337" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>gallery:phone>contact:tablet>gallery:gallery"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>gallery:phone>contact:tablet>index:tablet>gallery:tablet>contact:index:gallery:contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>gallery:tablet>gallery:gallery"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>gallery:tablet>gallery:gallery"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>gallery:tablet>gallery:gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="logo vaquita.jpg" crc="61940836" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fins.jpg" crc="4141894290" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fvb-u3842-fr.jpg" crc="3774201465" ref="phone>index"/>
+    <file name="fg-u3843-fr.jpg" crc="405594478" ref="phone>index"/>
+    <file name="fgb-u3844-fr.jpg" crc="3878448052" ref="phone>index"/>
+    <file name="fgfg-u3845-fr.jpg" crc="10790617" ref="phone>index"/>
+    <file name="kmk-u3857-fr.jpg" crc="4109989119" ref="phone>index:tablet>index:index"/>
+    <file name="ouoj-u3860-fr.jpg" crc="292564816" ref="phone>index:tablet>index:index"/>
+    <file name="cliente vaquita 2.jpg" crc="484919647" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="oscar a cliente vaquita.jpg" crc="4067285007" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jsfkdhf.jpg" crc="515695639" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fgb.jpg" crc="78517407" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dgdfgfg426x284.jpg" crc="3986872723" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>gallery:tablet>gallery:gallery"/>
+    <file name="etgetge-crop-u4116.jpg" crc="4267900181" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fsf-crop-u4110.jpg" crc="242845218" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="getg426x284.jpg" crc="506837750" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="niño areoa426x284.jpg" crc="27859975" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdff379x284.jpg" crc="4141368724" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="t4tg-crop-u4106.jpg" crc="3870268959" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sjos-crop-u4122.jpg" crc="3953877275" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsfg-crop-u4124.jpg" crc="3866828429" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="erge.jpg" crc="4156570400" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dgdfgfg75x50.jpg" crc="289446266" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="etgetge-crop-u4081.jpg" crc="3956332129" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fsf-crop-u4075.jpg" crc="4148252049" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="getg75x50.jpg" crc="9071858" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="niño areoa66x44.jpg" crc="3767194324" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdff67x50.jpg" crc="4086702803" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="t4tg-crop-u4073.jpg" crc="4005209138" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sjos-crop-u4069.jpg" crc="491228999" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsfg-crop-u4077.jpg" crc="3774799080" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="erge75x50.jpg" crc="4013130391" seo="true" ref="phone>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>gallery:tablet>gallery:gallery"/>
+    <file name="8gfgs-u4341-fr.jpg" crc="3801471242" ref="phone>contact"/>
+    <file name="fins-u4347-fr.jpg" crc="298615228" ref="phone>contact"/>
+    <file name="hbh.jpg" crc="27750690" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fvb.jpg" crc="77515994" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fg.jpg" crc="9241697" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fgb2.jpg" crc="4160891374" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fgfg.jpg" crc="9214864" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fgpo.jpg" crc="4110677738" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdff.jpg" crc="4182565413" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="getg.jpg" crc="328038823" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fsf-crop-u2917.jpg" crc="130001182" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dgdfgfg.jpg" crc="3804610119" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="8gfgs694x553.jpg" crc="203747134" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="t4tg-crop-u2907.jpg" crc="4113213061" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dfgdfg.jpg" crc="360057343" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsf.jpg" crc="3768282232" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsdf-crop-u2911.jpg" crc="430136340" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="niño areoa.jpg" crc="4174942154" seo="true" ref="tablet>gallery:gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdff134x100.jpg" crc="3972669166" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="getg150x100.jpg" crc="137507355" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fsf-crop-u2962.jpg" crc="346657932" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dgdfgfg150x100.jpg" crc="3890227276" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="8gfgs130x104.jpg" crc="360862275" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="t4tg-crop-u2956.jpg" crc="324873080" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dfgdfg151x100.jpg" crc="100265051" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsf134x100.jpg" crc="41261049" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsdf-crop-u2960.jpg" crc="236055438" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="niño areoa150x100.jpg" crc="3881830243" seo="true" ref="tablet>gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fgfg2.jpg" crc="4236573342" ref="tablet>contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="fins2.jpg" crc="501295249" ref="tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="hbh2.jpg" crc="27750690" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fvb2.jpg" crc="4050403146" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dgdfgfg708x472.jpg" crc="3804610119" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsfg-crop-u2234.jpg" crc="4039801584" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="etgetge-crop-u2252.jpg" crc="57192365" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sjos.jpg" crc="368256752" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fsf-crop-u2270.jpg" crc="130001182" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="t4tg-crop-u2279.jpg" crc="4113213061" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="erge150x100.jpg" crc="200150993" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsf-crop-u2219.jpg" crc="3782487226" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsdf150x84.jpg" crc="277914221" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdfsfg150x84.jpg" crc="514509607" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sdff-crop-u2246.jpg" crc="3821100058" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="fsf159x89.jpg" crc="529158782" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sjos-crop-u2264.jpg" crc="4076097330" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="etgetge159x89.jpg" crc="3947461990" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="t4tg-crop-u2282.jpg" crc="4181162942" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="kmk.jpg" crc="449314141" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3848852881" ref="tablet>gallery:tablet>index:tablet>contact"/>
+      <file name="gallery.css" crc="3909104006" ref="tablet>gallery"/>
+      <file name="index.css" crc="4287768546" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3957882311" ref="tablet>index"/>
+      <file name="contact.css" crc="413603487" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="238099390" seo="true" mt="1518203239922" redirect="true"/>
+    <file name="gallery.html" crc="3787741940" seo="true" mt="1518164905477" redirect="true"/>
+    <file name="contact.html" crc="4016853953" seo="true" mt="1518164905477" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="260915455" ref="phone>gallery:phone>index:phone>contact"/>
+      <file name="gallery.css" crc="254566913" ref="phone>gallery"/>
+      <file name="index.css" crc="4152562892" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="44051185" ref="phone>index"/>
+      <file name="contact.css" crc="367438738" ref="phone>contact"/>
+    </folder>
+    <file name="index.html" crc="3956355143" seo="true" mt="1518203125062" redirect="true"/>
+    <file name="gallery.html" crc="280810392" seo="true" mt="1518166649000" redirect="true"/>
+    <file name="contact.html" crc="4293314711" seo="true" mt="1518166649000" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4228880341" seo="true" mt="1518165029796" redirect="true"/>
+  <file name="gallery.html" crc="4241089226" seo="true" mt="1518164945602" redirect="true"/>
+  <file name="contact.html" crc="393125296" seo="true" mt="1518164945602" redirect="true"/>
+</manifest>
